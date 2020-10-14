@@ -1,9 +1,10 @@
 # GitHub Tutorial
 
-Steaps:
+Steps:
 
 - Fork Project
 - Clone
 - Make Changes
-- Create PR
+- Commit Changes
+- Create Pull Request
 - Wait for merging
