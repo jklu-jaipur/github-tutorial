@@ -3,7 +3,7 @@
 Steps:
 
 - Fork Project
-- Clone
+- Clone Repository
 - Make Changes
 - Commit Changes
 - Create Pull Request
